@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynameiscarsten&show_icons=true&locale=en" alt="mynameiscarsten" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameiscarsten&" alt="mynameiscarsten" /></p>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mynameiscarsten)](https://github.com/anuraghazra/github-readme-stats)
