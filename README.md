@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameiscarsten&label=Profile%20views&color=0e75b6&style=flat" alt="mynameiscarsten" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/be653142-3adc-4882-960e-bcd907529869.svg)](https://wakatime.com/@be653142-3adc-4882-960e-bcd907529869)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynameiscarsten" alt="mynameiscarsten" /></a> </p>
 
 - 🔭 I’m currently working on [beat-portfolio](https://github.com/MyNameIsCarsten/beat-portfolio)
@@ -12,6 +14,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MyNameIsCarsten](https://github.com/MyNameIsCarsten)
 
 - 💬 Ask me about **Python, HTML, CSS**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameiscarsten&" alt="mynameiscarsten" /></p>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mynameiscarsten)](https://github.com/anuraghazra/github-readme-stats)
+
+
