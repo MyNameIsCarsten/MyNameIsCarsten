@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **JavaScript, Django**
 
+- 💪 I'm especially proud of [German Cookie Banner](https://github.com/MyNameIsCarsten/german-cookiebanner)
+
 - 👨‍💻 All of my projects are available at [https://github.com/MyNameIsCarsten](https://github.com/MyNameIsCarsten)
 
 - 💬 Ask me about **Python, HTML, CSS**
