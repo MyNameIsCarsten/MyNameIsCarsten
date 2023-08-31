@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynameiscarsten" alt="mynameiscarsten" /></a> </p>
 
-- 🔭 I’m currently working on [beat-portfolio](https://github.com/MyNameIsCarsten/beat-portfolio)](https://github.com/MyNameIsCarsten/django-social)
+- 🔭 I’m currently working on [Django Social Network](https://github.com/MyNameIsCarsten/django-social)
 
 - 🌱 I’m currently learning **JavaScript, Django**
 
