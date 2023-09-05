@@ -15,6 +15,7 @@
   - [German Cookie Banner](https://github.com/MyNameIsCarsten/german-cookiebanner)
   - [Beatstars.com Uploader](https://github.com/MyNameIsCarsten/beatstars-upload)
   - [Django Social Network](https://github.com/MyNameIsCarsten/django-social)
+  - [Tool for Chemical Calculations](https://github.com/MyNameIsCarsten/chemical-calculator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MyNameIsCarsten](https://github.com/MyNameIsCarsten)
 
