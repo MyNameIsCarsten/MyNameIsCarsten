@@ -7,14 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynameiscarsten" alt="mynameiscarsten" /></a> </p>
 
-- 🔭 I’m currently working on [Django Social Network](https://github.com/MyNameIsCarsten/django-social)
+- 🔭 I’m currently working on [Django - Ecommerce Store](https://github.com/MyNameIsCarsten/django-ecommerce)
 
 - 🌱 I’m currently learning **JavaScript, Django**
 
 - 💪 I'm especially proud of:
   - [German Cookie Banner](https://github.com/MyNameIsCarsten/german-cookiebanner)
   - [Beatstars.com Uploader](https://github.com/MyNameIsCarsten/beatstars-upload)
-  - [Django Social Network](https://github.com/MyNameIsCarsten/django-social)
+  - [Django - Social Network](https://github.com/MyNameIsCarsten/django-social)
+  - [Django - Ecommerce Store](https://github.com/MyNameIsCarsten/django-ecommerce)
   - [Tool for Chemical Calculations](https://github.com/MyNameIsCarsten/chemical-calculator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MyNameIsCarsten](https://github.com/MyNameIsCarsten)
