@@ -17,6 +17,7 @@
   - [Django - Social Network](https://github.com/MyNameIsCarsten/django-social)
   - [Django - Ecommerce Store](https://github.com/MyNameIsCarsten/django-ecommerce)
   - [Tool for Chemical Calculations](https://github.com/MyNameIsCarsten/chemical-calculator)
+  - [Django - Paypal RESTsdk Tutorial](https://github.com/MyNameIsCarsten/django-paypal-restsdk)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MyNameIsCarsten](https://github.com/MyNameIsCarsten)
 
