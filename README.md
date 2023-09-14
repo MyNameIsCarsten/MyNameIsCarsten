@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynameiscarsten" alt="mynameiscarsten" /></a> </p>
 
-- 🔭 I’m currently working on [Django - Ecommerce Store](https://github.com/MyNameIsCarsten/django-ecommerce)
-
-- 🌱 I’m currently learning **JavaScript, Django**
+- 🌱 I’m currently learning **React & Django**
 
 - 💪 I'm especially proud of:
   - [German Cookie Banner](https://github.com/MyNameIsCarsten/german-cookiebanner)
