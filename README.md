@@ -19,6 +19,7 @@
   - [Tool for Chemical Calculations](https://github.com/MyNameIsCarsten/chemical-calculator)
   - [Django - Paypal RESTsdk Tutorial](https://github.com/MyNameIsCarsten/django-paypal-restsdk)
   - [Django - REST API](https://github.com/MyNameIsCarsten/django-rest)
+  - [Uniprot Mini App](https://github.com/MyNameIsCarsten/uniprot-miniapp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MyNameIsCarsten](https://github.com/MyNameIsCarsten)
 
