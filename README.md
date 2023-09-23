@@ -20,7 +20,7 @@
   - [Uniprot Mini App](https://github.com/MyNameIsCarsten/uniprot-miniapp)
   - [React - Pokemon App](https://github.com/MyNameIsCarsten/Pokemon-App) (Forked and Expanded Functionality)
   - [React - Task Tracker with Mock JSON Backend](https://github.com/MyNameIsCarsten/react-task-tracker)
-  - [React - Timer](https://github.com/MyNameIsCarsten/react-timer)
+  - [React - Timer & Alarm](https://github.com/MyNameIsCarsten/react-timer)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MyNameIsCarsten](https://github.com/MyNameIsCarsten)
 
