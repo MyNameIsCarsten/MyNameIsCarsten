@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **React & Django**
 
 - 💪 I'm especially proud of:
+  - [React Spotify API APP](https://github.com/MyNameIsCarsten/react-spotify-app)
   - [German Cookie Banner](https://github.com/MyNameIsCarsten/german-cookiebanner)
   - [Beatstars.com Uploader](https://github.com/MyNameIsCarsten/beatstars-upload)
   - [Django - Social Network](https://github.com/MyNameIsCarsten/django-social)
