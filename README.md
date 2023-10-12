@@ -16,6 +16,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![React-Redux Flashcards](https://github.com/MyNameIsCarsten/flashcards)
 
 <h3 align="center">A creative mind on a coding journey to help others with solutions to my daily problems. Always open to learn new stuff!</h3>
 
