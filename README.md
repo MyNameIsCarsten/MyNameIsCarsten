@@ -37,15 +37,8 @@
   - [German Cookie Banner](https://github.com/MyNameIsCarsten/german-cookiebanner)
   - [Beatstars.com Uploader](https://github.com/MyNameIsCarsten/beatstars-upload)
   - [Django - Social Network](https://github.com/MyNameIsCarsten/django-social)
-  - [Django - Ecommerce Store](https://github.com/MyNameIsCarsten/django-ecommerce)
   - [Tool for Chemical Calculations](https://github.com/MyNameIsCarsten/chemical-calculator)
-  - [Django - Paypal RESTsdk Tutorial](https://github.com/MyNameIsCarsten/django-paypal-restsdk)
-  - [Django - REST API](https://github.com/MyNameIsCarsten/django-rest)
-  - [Uniprot Mini App](https://github.com/MyNameIsCarsten/uniprot-miniapp)
-  - [React - Pokemon App](https://github.com/MyNameIsCarsten/Pokemon-App) (Forked and Expanded Functionality)
-  - [React - Task Tracker with Mock JSON Backend](https://github.com/MyNameIsCarsten/react-task-tracker)
   - [React - Timer & Alarm](https://github.com/MyNameIsCarsten/react-timer)
-  - [React & Redux - Flashcards](https://github.com/MyNameIsCarsten/flashcards)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MyNameIsCarsten](https://github.com/MyNameIsCarsten)
 
