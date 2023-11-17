@@ -28,7 +28,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mynameiscarsten" alt="mynameiscarsten" /></a> </p>
 
-- 🌱 I’m currently learning **Express & MongoDB**
+- 🌱 I’m currently learning **Express & MongoDB, TypeScript**
 
 - 💪 I'm especially proud of:
   - [MERN-Stack Quiz App](https://github.com/MyNameIsCarsten/MERN-quiz)
